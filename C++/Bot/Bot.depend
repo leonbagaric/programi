@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1522499328 source:c:\users\leonb\desktop\c++\bot\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ratio>
+	<chrono>
+	<WinBase.h>
+	<Windows.h>
+	<ctime>
+	<cmath>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
+1526074989 source:c:\users\leonb\desktop\bot\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ratio>
+	<chrono>
+	<Windows.h>
+	<ctime>
+	<cmath>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<fstream>
+
+1603698442 source:c:\c++\bot\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ratio>
+	<chrono>
+	<Windows.h>
+	<ctime>
+	<cmath>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<fstream>
+

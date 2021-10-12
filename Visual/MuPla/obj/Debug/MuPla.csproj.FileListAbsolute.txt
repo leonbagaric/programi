@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\MuPla\bin\Debug\MuPla.exe.config
+C:\Users\Korisnik\source\repos\MuPla\bin\Debug\MuPla.exe
+C:\Users\Korisnik\source\repos\MuPla\bin\Debug\MuPla.pdb
+C:\Users\Korisnik\source\repos\MuPla\bin\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\source\repos\MuPla\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.csproj.ResolveComReference.cache
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.MuPla.resources
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.exe
+C:\Users\Korisnik\source\repos\MuPla\obj\Debug\MuPla.pdb
